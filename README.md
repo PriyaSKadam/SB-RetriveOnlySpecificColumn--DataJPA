@@ -1,0 +1,1 @@
+# SB-RetriveOnlySpecificColumn--DataJPA
